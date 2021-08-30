@@ -1,0 +1,4 @@
+Macedo,9,5,6,10
+Matheus,9,5,6,10
+rafael,10,5,6,10
+felipe,10,10,6,10
